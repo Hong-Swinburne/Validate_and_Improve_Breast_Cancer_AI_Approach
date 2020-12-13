@@ -1,0 +1,8 @@
+tensorflow-gpu==1.5.0
+keras==2.0.8
+pydicom
+opencv-python
+pillow
+pandas
+scikit-learn
+h5py
